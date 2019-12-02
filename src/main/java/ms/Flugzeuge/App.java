@@ -4,7 +4,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class App {
+
 	public static void main(String[] args) {
+
+		RandomCardGenerator rcg = new RandomCardGenerator();
+		rcg.generateRandomCards();
 
 	}
 
@@ -47,6 +51,7 @@ public class App {
 	}
 
 	private List<Card> removed(Object lastCard, List<Card> cards) {
+
 		return null;
 	}
 }
