@@ -12,7 +12,7 @@ public class RandomCardGenerator {
 		BufferedWriter writer = null;
 		Random random = new Random();
 		try {
-			File logFile = new File("GeneratedCards");
+			File logFile = new File("GeneratedCards.txt");
 
 			System.out.println(logFile.getCanonicalPath());
 

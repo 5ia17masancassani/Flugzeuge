@@ -8,7 +8,9 @@ public class App {
 	public static void main(String[] args) {
 
 		RandomCardGenerator rcg = new RandomCardGenerator();
+		CardReader reader = new CardReader();
 		rcg.generateRandomCards();
+		List<Card> cards = reader.getCards();
 
 	}
 
