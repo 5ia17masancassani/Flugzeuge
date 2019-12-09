@@ -1,20 +1,36 @@
 package ms.Flugzeuge;
 
-
 public class Field {
 
-	public Field addedIfFits(Card card) {
-		return null;
+	private Card currentCard;
+	private Card lastCard;
+
+	public Field addIfFits(Card card) {
+
+		if (this.currentCard == null) {
+			this.currentCard = card;
+		} else {
+			this.lastCard = this.currentCard;
+			this.currentCard = card;
+		}
+		return this;
 	}
 
 	public boolean isFull() {
-		return false;
+		if (this.currentCard == null) {
+			return false;
+		} else {
+			return true;
+		}
+
 	}
 
-	public Object getLastCard() {
-		return null;
+	public Card getLastCard() {
+		return this.lastCard;
 	}
-	
-	
+
+	public Card getCurrentCard() {
+		return this.currentCard;
+	}
 
 }
