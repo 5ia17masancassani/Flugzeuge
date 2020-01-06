@@ -14,13 +14,30 @@ public class App {
 		CardReader reader = new CardReader();
 		rcg.generateRandomCards();
 		List<Card> cards = reader.getCards();
-		
+
 		List<Field> solutions = findAllSolutions(new Field(), cards);
 		System.out.println("_________________________");
 		
 		for(Field field : solutions) {
-			System.out.println(field.getCurrentCard().getUp() + "/" + field.getCurrentCard().getRight() + "/" +field.getCurrentCard().getDown() + "/" +field.getCurrentCard().getLeft());
+			//System.out.println(field.getCurrentCard().getUp() + "/" + field.getCurrentCard().getRight() + "/" +field.getCurrentCard().getDown() + "/" +field.getCurrentCard().getLeft());
 		}
+	}
+
+	public static List<Field> findAllSolutions(Field field, List<Card> cards) {
+
+		List<Field> solutions = new LinkedList<Field>();
+
+		List<Field> nextPossibleMoves = nextPossibleMoves(field, cards);
+		for (Field currentMove : nextPossibleMoves) {
+			if (currentMove.isFull()) {
+				solutions.add(currentMove);
+			} else {
+				List<Card> remaining = removed(currentMove.getLastCard(), cards);
+				solutions.addAll(findAllSolutions(currentMove, remaining));
+			}
+		}
+
+		return solutions;
 	}
 
 	public static List<Field> nextPossibleMoves(Field field, List<Card> remainingCards) {
@@ -42,23 +59,6 @@ public class App {
 		}
 
 		return fieldsWithOneMoreCard;
-	}
-
-	public static List<Field> findAllSolutions(Field field, List<Card> cards) {
-
-		List<Field> solutions = new LinkedList<Field>();
-
-		List<Field> nextPossibleMoves = nextPossibleMoves(field, cards);
-		for (Field currentMove : nextPossibleMoves) {
-			if (currentMove.isFull()) {
-				solutions.add(currentMove);
-			} else {
-				List<Card> remaining = removed(currentMove.getLastCard(), cards);
-				solutions.addAll(findAllSolutions(currentMove, remaining));
-			}
-		}
-
-		return solutions;
 	}
 
 	private static List<Card> removed(Card lastCard, List<Card> cards) {
