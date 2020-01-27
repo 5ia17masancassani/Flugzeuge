@@ -1,0 +1,2964 @@
+Solution 1: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 2: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 3: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 4: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+________________
+Solution 5: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+________________
+Solution 6: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+________________
+Solution 7: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+________________
+Solution 8: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+________________
+Solution 9: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+________________
+Solution 10: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+________________
+Solution 11: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+________________
+Solution 12: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+________________
+Solution 13: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+________________
+Solution 14: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+________________
+Solution 15: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+________________
+Solution 16: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+________________
+Solution 17: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+________________
+Solution 18: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+________________
+Solution 19: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+________________
+Solution 20: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+________________
+Solution 21: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+________________
+Solution 22: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+________________
+Solution 23: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+________________
+Solution 24: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+________________
+Solution 25: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+________________
+Solution 26: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+________________
+Solution 27: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+________________
+Solution 28: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+________________
+Solution 29: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+________________
+Solution 30: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+________________
+Solution 31: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+________________
+Solution 32: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+________________
+Solution 33: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=0/y=2
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+________________
+Solution 34: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 35: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 36: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+________________
+Solution 37: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 38: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+________________
+Solution 39: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 40: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 41: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+________________
+Solution 42: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+________________
+Solution 43: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Blue
+Right: Front/Red
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Blue
+Right: Back/Green
+Down: Back/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Green
+Down: Back/Green
+Left: Front/Green
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+________________
+Solution 44: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 45: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Blue
+Down: Back/Red
+Left: Back/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 46: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Front/Blue
+Right: Front/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Green
+Right: Back/Green
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+________________
+Solution 47: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Back/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+Card-Coordinates: x=1/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Front/Red
+Left: Back/Blue
+
+________________
+Solution 48: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+________________
+Solution 49: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Green
+Right: Back/Green
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=1/y=0
+Up: Back/Green
+Right: Front/Green
+Down: Back/Red
+Left: Front/Green
+
+Card-Coordinates: x=2/y=0
+Up: Back/Red
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Green
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Blue
+Down: Front/Green
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Front/Blue
+Right: Back/Blue
+Down: Front/Green
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Back/Blue
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Green
+Right: Back/Red
+Down: Back/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Front/Red
+Down: Front/Blue
+Left: Front/Red
+
+________________
+Solution 50: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=2
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+________________
+Solution 51: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Front/Red
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Blue
+Left: Back/Red
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Back/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Front/Red
+Right: Front/Blue
+Down: Front/Red
+Left: Back/Red
+
+Card-Coordinates: x=1/y=2
+Up: Front/Green
+Right: Front/Blue
+Down: Front/Blue
+Left: Back/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Red
+Right: Back/Green
+Down: Back/Green
+Left: Back/Blue
+
+________________
+Solution 52: 
+----------------
+Card-Coordinates: x=0/y=0
+Up: Back/Red
+Right: Back/Blue
+Down: Back/Blue
+Left: Front/Green
+
+Card-Coordinates: x=1/y=0
+Up: Front/Red
+Right: Front/Blue
+Down: Back/Red
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=0
+Up: Back/Green
+Right: Back/Red
+Down: Back/Red
+Left: Back/Blue
+
+Card-Coordinates: x=0/y=1
+Up: Front/Red
+Right: Back/Red
+Down: Front/Red
+Left: Front/Blue
+
+Card-Coordinates: x=1/y=1
+Up: Back/Blue
+Right: Front/Green
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=2/y=1
+Up: Front/Green
+Right: Back/Red
+Down: Front/Green
+Left: Back/Green
+
+Card-Coordinates: x=0/y=2
+Up: Front/Blue
+Right: Back/Blue
+Down: Back/Red
+Left: Front/Red
+
+Card-Coordinates: x=1/y=2
+Up: Back/Blue
+Right: Front/Green
+Down: Front/Blue
+Left: Front/Blue
+
+Card-Coordinates: x=2/y=2
+Up: Back/Blue
+Right: Back/Red
+Down: Back/Green
+Left: Back/Green
+
+________________

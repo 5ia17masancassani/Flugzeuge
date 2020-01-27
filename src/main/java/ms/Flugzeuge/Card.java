@@ -1,13 +1,14 @@
 package ms.Flugzeuge;
 
+import ms.Flugzeuge.New.Plane;
+
 public class Card {
+	private Plane up;
+	private Plane right;
+	private Plane down;
+	private Plane left;
 
-	private String up;
-	private String right;
-	private String down;
-	private String left;
-
-	public Card(String up, String right, String down, String left) {
+	public Card(Plane up, Plane right, Plane down, Plane left) {
 		super();
 		this.up = up;
 		this.right = right;
@@ -15,50 +16,57 @@ public class Card {
 		this.left = left;
 	}
 
-	public String getUp() {
+	public Card copy() {
+		return new Card(up.copy(), right.copy(), down.copy(), left.copy());
+	}
+
+	@Override
+	public String toString() {
+		return "Card [up=" + up + ", right=" + right + ", down=" + down + ", left=" + left + "]";
+	}
+
+	public Plane getUp() {
 		return up;
 	}
 
-	public void setUp(String up) {
+	public void setUp(Plane up) {
 		this.up = up;
 	}
 
-	public String getRight() {
+	public Plane getRight() {
 		return right;
 	}
 
-	public void setRight(String right) {
+	public void setRight(Plane right) {
 		this.right = right;
 	}
 
-	public String getDown() {
+	public Plane getDown() {
 		return down;
 	}
 
-	public void setDown(String down) {
+	public void setDown(Plane down) {
 		this.down = down;
 	}
 
-	public String getLeft() {
+	public Plane getLeft() {
 		return left;
 	}
 
-	public void setLeft(String left) {
+	public void setLeft(Plane left) {
 		this.left = left;
 	}
 
-	public Card turned90DegreesClockwise() {
-		String tempUp = this.up;
-		String tempRight = this.right;
-		String tempDown = this.down;
-		String tempLeft = this.left;
+	public void turned90DegreesClockwise() {
+		Plane tempUp = this.up;
+		Plane tempRight = this.right;
+		Plane tempDown = this.down;
+		Plane tempLeft = this.left;
 
 		this.up = tempLeft;
 		this.right = tempUp;
 		this.down = tempRight;
 		this.left = tempDown;
-
-		return this;
 	}
 
 }
